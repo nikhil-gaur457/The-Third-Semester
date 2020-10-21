@@ -9,7 +9,8 @@
 <!--
 
 Write down everything here.
-
+hey everyone..!, this repository is build for covering the all basic syllabus of Computer Engineering Department of Second year.
+Keep enjoying your studies,keep participating..!
 
 
 -->
